@@ -1,2 +1,2 @@
 # NBA-Stuff
-Various NBA topics to dive into.
+Basketball Data Science with Applications in R by Paola Zuccolotto and Marica Manisera code. A few of pieces of the code did not work, I fixed some but others that I did not I pointed out. The errors were typically around the loop logic combining with their package functions. A lot of interesting angles simplified from the heavy lifting from their package BasketballAnalyzeR. They use play by play data from bigdataball.com. Chapter 2 is included in the chapter 1 code btw. 
